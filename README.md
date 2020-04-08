@@ -3,4 +3,5 @@
 - HW2: Custom index
 - HW3: Merged index & Search engine UI 
 - HW4: PageRank & HIT algorithm
-- HW5: Manual assessment & trec_eval
+- HW5: Manual assessment & Trec_eval
+- HW6: Linear regression for classification
